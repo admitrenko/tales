@@ -33,4 +33,6 @@
 
 &laquo;Что за чёрт!&raquo; &mdash; мелькнула мысль в его голове после слов запыхавшегося гражданина. И оба уже бежали вниз по эскалатору на помощь пострадавшей!
 
+[Читать дальше](https://github.com/finelit/tales/blob/master/one_the_same_day/ii.md)
+
 `v.1.0.1` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
