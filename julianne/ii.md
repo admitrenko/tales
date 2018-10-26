@@ -24,4 +24,6 @@
 
 Полежи теперь, расслабься, &mdash; поцеловав её в макушку, сказал я и вышел, закрыв за собой дверь.
 
-`v.0.5.0` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+[Читать дальше](https://github.com/finelit/tales/blob/master/julianne/iii.md)
+
+`v.0.5.1` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)

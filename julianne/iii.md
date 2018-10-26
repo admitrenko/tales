@@ -25,4 +25,6 @@
 
 Перейдя дорогу на красный свет, она уже направлялась к себе домой по противоположной стороне проспекта... А моя ветровка, как флаг, развевалась на ветру, зацепившись за кнопку &laquo;Нажмите и дождитесь зелёного сигнала&raquo;.
 
-`v.0.5.0` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+[Читать дальше](https://github.com/finelit/tales/blob/master/julianne/iv.md)
+
+`v.0.5.1` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)

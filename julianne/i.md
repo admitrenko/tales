@@ -28,4 +28,6 @@
 
 Юлина рука была просто ледяной. Наверное, моя девочка очень замерзла в одном джемпере на улице.
 
-`v.0.5.0` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
+[Читать дальше](https://github.com/finelit/tales/blob/master/julianne/ii.md)
+
+`v.0.5.1` &copy; [Andrei Dmitrenko](https://vk.com/fineliterature)
